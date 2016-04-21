@@ -1,8 +1,8 @@
 {
-    "cordova-plugin-whitelist": {
+    "cordova-plugin-device": {
         "source": {
             "type": "registry",
-            "id": "cordova-plugin-whitelist@1"
+            "id": "cordova-plugin-device"
         },
         "is_top_level": true,
         "variables": {}
@@ -16,13 +16,5 @@
         "variables": {
             "SENDER_ID": "718397155156"
         }
-    },
-    "cordova-plugin-device": {
-        "source": {
-            "type": "registry",
-            "id": "cordova-plugin-device"
-        },
-        "is_top_level": true,
-        "variables": {}
     }
 }
